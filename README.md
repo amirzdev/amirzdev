@@ -1,7 +1,6 @@
 - 👋 Hi, I’m amir.
 - 👀 I’m interested in coding, specially coding in web section.
 - 🌱 I’m currently learning laravel and tailwindcss.
-- 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me with my email => amirz.dev@hotmail.com.
 
 <!---
